@@ -1,0 +1,13 @@
+{
+  "name": "phantomguard-project",
+  "version": "1.0.0",
+  "description": "> **Real-time security guardrails against AI-hallucinated package dependencies and slopsquatting attacks.**",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
