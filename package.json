@@ -11,3 +11,22 @@
   "author": "",
   "license": "ISC"
 }
+{
+  "name": "phantomguard-project",
+  "version": "1.0.0",
+  "description": "An intelligent runtime security and application guard system.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "guard",
+    "runtime",
+    "wsl",
+    "ai-agent"
+  ],
+  "author": "tanishq286",
+  "license": "MIT"
+}
